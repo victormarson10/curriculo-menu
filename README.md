@@ -1,0 +1,1 @@
+Menu criado seguindo a forma de um currículo. Projeto simples não possuindo rotas e nem servidor instalado, foi feito em HTML puro com CSS.
